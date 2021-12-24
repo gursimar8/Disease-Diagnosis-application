@@ -1,8 +1,17 @@
 # Disease-Diagnosis-application
 
-I have used machine learning concepts to develop our prototype.
+I have used machine learning concepts to develop the prototype.
+**Algorithm**: RANDOM FOREST Classification
+**Dataset**: “**disease symptom sorting**” from Kaggle.
+**Language**: R
 
-**Algorithm Used**: RANDOM FOREST Classification
+**How to Use?**
+-> Open the application
+-> Select 5 predominant symptoms from a range of 132 symptoms
+-> Receive instant diagnosis
 
-For the prototype I have used the dataset “**disease symptom sorting**” from Kaggle.
-**Language used**: R
+**Benefits:**
+In remote areas like small villages, people don’t have access to instant medical help, this could be the solution.
+Can confirm your apprehensions about a disease.
+
+
