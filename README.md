@@ -1,6 +1,6 @@
 # Disease-Diagnosis-application
 
-I have used machine learning concepts to develop the prototype.
+I have used machine learning concepts to develop the prototype. <br />
 **Algorithm**: RANDOM FOREST Classification <br />
 **Dataset**: “**disease symptom sorting**” from Kaggle. <br />
 **Language**: R <br />
